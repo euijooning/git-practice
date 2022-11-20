@@ -1,15 +1,19 @@
 team: Tigers
 
-manager: Deborah
+manager: Thanos
 
-coach: Grace
+coach: Roman
 
 members:
 - Linda
 - William
 - David
 - George
-
+- Tyler
+- Kim
+- Gamora
+- Neblua
 
 
 fetch : this
+new : branch 
